@@ -76,10 +76,10 @@ class IPLManagementSystem {
 
         int choice;
         do {
-            System.out.println("\n1. View All Players");
-            System.out.println("2. Show Highest Run Scorer");
-            System.out.println("3. Show Highest Wicket Taker");
-            System.out.println("4. Exit");
+            System.out.println("\n1. View All Players ");
+            System.out.println("2. Show Highest Run Scorer ");
+            System.out.println("3. Show Highest Wicket Taker ");
+            System.out.println("4. Exit ");
             System.out.print("Choice: ");
             choice = sc.nextInt();
 
